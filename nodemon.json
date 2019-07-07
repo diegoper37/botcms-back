@@ -1,0 +1,5 @@
+{
+  "watch": ["dist"],
+  "ext": "js",
+  "exec": "NODE_ENV=development node -r dotenv/config dist/server"
+}
